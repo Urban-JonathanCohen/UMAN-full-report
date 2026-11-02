@@ -2,7 +2,7 @@
 
 Material flows and domestic material consumption (DMC) of **Italy, Portugal and Sweden**, from nation to municipality, calculated with the Urban Metabolism Analyst (UMAn).
 
-**➜ [Read the report](docs/16_full_report.md)**
+**➜ [Read the report as a web page](https://urban-jonathancohen.github.io/UMAN-full-report/)** · [Markdown version](docs/16_full_report.md)
 
 | | |
 |---|---|
@@ -17,4 +17,4 @@ This work is part of **[ECLECTIC – Enabling circular economy action plans for 
 
 The findings are a **draft** under review. Data: Statistics Sweden (SCB), Trafikanalys, ISTAT, Statistics Portugal (INE) and Eurostat. Results are model estimates.
 
-Contact: Jonathan Cohen · jonathan@nodal.se · [ORCID 0000-0001-5252-6504](https://orcid.org/0000-0001-5252-6504)
+Contact: Jonathan Cohen · jonathan@nodal.se · cohen.jota@gmail.com · [ORCID 0000-0001-5252-6504](https://orcid.org/0000-0001-5252-6504)

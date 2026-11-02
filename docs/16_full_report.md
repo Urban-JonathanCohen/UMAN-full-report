@@ -2834,7 +2834,7 @@ If you have comments or suggestions, or want to collaborate on a similar project
 
 |   |    |
 |---|---|
-| Email | jonathan@nodal.se |
+| Email | jonathan@nodal.se · cohen.jota@gmail.com |
 | Website | [nodalworks.se](https://nodalworks.se) |
 | LinkedIn | Jonathan Cohen – Urban Data |
 | ORCID | [0000-0001-5252-6504](https://orcid.org/0000-0001-5252-6504) |
